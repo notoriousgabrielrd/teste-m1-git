@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  background-color: #2f4f4f;
+  flex-direction: column;
+  align-items: center;
+}
+
+form {
+  display: inline-block;
+  padding: 30px;
+  width: 300px;
+  background-color: #0f2f2f;
+  box-sizing: border-box;
+  border: 2px solid #ffa500;
+}
+
+input,
+button {
+  box-sizing: border-box;
+  margin: 5px auto;
+  width: 100%;
+}
